@@ -1,2 +1,2 @@
 # Razorpay-Clone
-Razorpay Clone Frontend
+Razorpay Frontend
